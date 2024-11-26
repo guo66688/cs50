@@ -7,7 +7,7 @@ two project
 - degree
 - tictoe
   
-## class 2 Knowledge （搜索）
+## class 2 Knowledge （知识）
 
 two project
 - Knight
