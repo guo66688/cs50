@@ -7,3 +7,9 @@ two project
 - degree
 - tictoe
   
+## class 2 Knowledge （搜索）
+
+two project
+- Knight
+- minesweeper
+  
