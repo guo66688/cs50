@@ -55,7 +55,7 @@ def result(board, action):
     if board[i][j] != EMPTY:
         raise ValueError("Invalid action: Position already taken")
 
-    # 创建棋盘深拷贝并执行动作
+    # 创建棋盘深拷贝并执行动作S
     new_board = [row[:] for row in board]
     new_board[i][j] = player(board)
     return new_board
