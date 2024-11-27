@@ -12,4 +12,9 @@ two project
 two project
 - Knight
 - minesweeper
-  
+
+## class 3 Uncertainty (不确定性) 
+
+two project
+- PageRank
+- Heredity
